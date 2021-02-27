@@ -1,0 +1,25 @@
+/*CSS para la pagina solicitada MAke it real*/
+body,h1 {
+  font-family: "Raleway", sans-serif;
+    font-size: 48px;
+    color: white;
+}
+
+body, html{height: 100%}
+.bgimg {  
+  background-image: url('fondo.jpg');
+  min-height: 100%;
+  background-position: center;
+  background-size: cover;
+  }
+img{
+display:block;
+margin:auto;
+}
+.circular{
+  border-radius: 50%;
+  border: 5px white solid;
+ }
+ .centratext{
+  text-align: center;
+ }
