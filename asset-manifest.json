@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/anemejia/starter-project/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/anemejia/starter-project/static/js/main.21717301.chunk.js",
+    "main.js.map": "/anemejia/starter-project/static/js/main.21717301.chunk.js.map",
+    "runtime-main.js": "/anemejia/starter-project/static/js/runtime-main.85149f8e.js",
+    "runtime-main.js.map": "/anemejia/starter-project/static/js/runtime-main.85149f8e.js.map",
+    "static/js/2.e54dfc5f.chunk.js": "/anemejia/starter-project/static/js/2.e54dfc5f.chunk.js",
+    "static/js/2.e54dfc5f.chunk.js.map": "/anemejia/starter-project/static/js/2.e54dfc5f.chunk.js.map",
+    "static/js/3.24bf2881.chunk.js": "/anemejia/starter-project/static/js/3.24bf2881.chunk.js",
+    "static/js/3.24bf2881.chunk.js.map": "/anemejia/starter-project/static/js/3.24bf2881.chunk.js.map",
+    "index.html": "/anemejia/starter-project/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/anemejia/starter-project/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.e54dfc5f.chunk.js.LICENSE.txt": "/anemejia/starter-project/static/js/2.e54dfc5f.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/anemejia/starter-project/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.85149f8e.js",
+    "static/js/2.e54dfc5f.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.21717301.chunk.js"
+  ]
+}
